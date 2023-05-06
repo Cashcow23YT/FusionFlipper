@@ -3,16 +3,16 @@
 
 
 
-[![downloads](https://img.shields.io/github/downloads/Moulberry/BetterScaledGUI/total?style=for-the-badge)](Enter github here)
+[![downloads](https://img.shields.io/github/downloads/Moulberry/BetterScaledGUI/total?style=for-the-badge)](https://github.com/Cashcow23YT/FusionFlipper/releases/tag/Releases)
 
 [![version](https://img.shields.io/badge/version-1.8.9-green?style=for-the-badge&logo=appveyor)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
 
-[![release](https://img.shields.io/badge/release-1.0-green?style=for-the-badge&logo=appveyor)](Enter Github here)
+[![release](https://img.shields.io/badge/release-1.0-green?style=for-the-badge&logo=appveyor)](https://github.com/Cashcow23YT/FusionFlipper/releases/tag/Releases)
 
 
 ## Download
 
-
+https://github.com/Cashcow23YT/FusionFlipper/releases/tag/Releases
 
 
 ## What does it does?
