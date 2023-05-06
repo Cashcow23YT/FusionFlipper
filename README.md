@@ -12,7 +12,7 @@
 
 ## Download
 
-https://github.com/AspectOfTheFlipperX/AspectOfTheFlipper/releases/tag/hypixel
+
 
 
 ## What does it does?
@@ -22,9 +22,9 @@ Automates ah flips bringing you a profit capable of making a lot of coins
 
 ## How to use?
 
-- /aotf - Shows the config GUI
-- /aotf help - Shows the help message containing all the subcommands and their usage
-- /aotf toggle - Enables the mod to return a list of suggested items to flip whenever one is found
+- /fusion - Shows the config GUI
+- /fusion help - Shows the help message containing all the subcommands and their usage
+- /fusion toggle - Enables the mod to return a list of suggested items to flip whenever one is found
 
 
 
